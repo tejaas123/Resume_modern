@@ -9,15 +9,15 @@ email: Tejas.jadhav@aggiemail.usu.edu
 website: 
 
 # Social links
-twitter_username: facespics
-github_username:  sproogen
+#twitter_username: facespics
+github_username:  tejaas123
 # dribbble_username: jekyll
 # facebook_username: jekyll
 # flickr_username: jekyll
-instagram_username: chillwildlife
+#instagram_username: chillwildlife
 linkedin_username: jameswgrant
 # pinterest_username: jekyll
-youtube_username: globalmtb
+#youtube_username: globalmtb
 # googleplus_username: +jekyll
 
 # About Section
@@ -30,20 +30,22 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Projects Section
 # projects_title: Projects
+Validation for all things related to media within the Volkswagen Group
 
 # Experience Section
 # experience_title: Experience
-
+Been with the VWGoA since March 2014.
 # Education Section
 # educaton_title: Education
+Utah State University alumni
 
 # More Section
 # more_title: A Little More About Me
 more_content: | # this will include new lines to allow paragraphs
   Alongside my interests in networks and software engineering some of my other interests and hobbies are:
-   - Rock climbing
-   - Gaming
-   - Knitting
+   - Road biking
+   - Bibliophism
+   - Cooking
    - [Becoming a ninja](https://www.youtube.com/watch?v=vtg4o__aRMg)
 
 # Footer
