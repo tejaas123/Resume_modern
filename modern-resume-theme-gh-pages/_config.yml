@@ -30,7 +30,7 @@ about_content: | # this will include new lines to allow paragraphs
 
 # Projects Section
 # projects_title: Projects:
-Projects: 
+Projects: | 
 Validation for all things related to media within the Volkswagen Group.
 
 # Experience Section
