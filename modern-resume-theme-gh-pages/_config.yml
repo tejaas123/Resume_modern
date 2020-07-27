@@ -29,15 +29,16 @@ about_content: | # this will include new lines to allow paragraphs
   I am most skilled in: <mark>AWS</mark> and <mark>Eating Pizza</mark>
 
 # Projects Section
-projects_title: Projects
-Validation for all things related to media within the Volkswagen Group
+# projects_title: Projects:
+Projects: 
+Validation for all things related to media within the Volkswagen Group.
 
 # Experience Section
 experience_title: Experience
 Been with the VWGoA since March 2014.
 # Education Section
 educaton_title: Education
-Utah State University alumni
+Utah State University alumni.
 
 # More Section
 # more_title: A Little More About Me
